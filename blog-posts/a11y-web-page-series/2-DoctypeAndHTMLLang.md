@@ -1,5 +1,5 @@
 # Setting Up An Accessible Web Page: The Doctype and HTML Tags (A UX Accessibility Blog Post)
-##### Posted on January 17, 2017 on [Software Unwound](https://softwareunwound.com/2017/01/17/setting-up-an-accessible-web-page-the-doctype-and-html-tags-a-ux-accessibility-blog-post/)
+##### Originally posted on January 17, 2017 on [Software Unwound](https://softwareunwound.com/2017/01/17/setting-up-an-accessible-web-page-the-doctype-and-html-tags-a-ux-accessibility-blog-post/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
 
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.”
 
