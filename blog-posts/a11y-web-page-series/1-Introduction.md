@@ -1,5 +1,5 @@
 # Setting up an Accessible Web Page: Introduction to Inclusive Design (A UX Accessibility Blog Series) 
-##### Posted on January 10, 2017 on [Software Unwound](https://softwareunwound.com/2017/01/10/setting-up-an-accessible-web-page-introduction-to-inclusive-design-a-ux-accessibility-blog-series/)
+##### Originally posted on January 10, 2017 on [Software Unwound](https://softwareunwound.com/2017/01/10/setting-up-an-accessible-web-page-introduction-to-inclusive-design-a-ux-accessibility-blog-series/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.” First, we’ll describe the type of design used to create accessible content (inclusive design) and how it relates to accessibility.
 
 <h2>What is Inclusive Design?</h2>
