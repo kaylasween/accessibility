@@ -1,5 +1,5 @@
 # Setting Up an Accessible Web Page: The Title Element (A UX Accessibility Blog Post)
-##### Posted on February 2, 2017 on [Software Unwound](https://softwareunwound.com/2017/02/02/setting-up-an-accessible-web-page-the-title-element-a-ux-accessibility-blog-post/)
+##### Originally posted on February 2, 2017 on [Software Unwound](https://softwareunwound.com/2017/02/02/setting-up-an-accessible-web-page-the-title-element-a-ux-accessibility-blog-post/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.”
 
 <h2>Let’s Recap</h2>
