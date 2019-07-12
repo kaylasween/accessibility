@@ -22,7 +22,7 @@
     &lt;div class="container-fluid"&gt;
         &lt;div class="navbar-header"&gt;
             &lt;button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarCollapseDiv"&gt;
-               &lt;span class="glyphicon glyphicon-menu-hamburger"></span><span class="sr-only"&gt;Menu&lt;/span&gt;
+               &lt;span class="glyphicon glyphicon-menu-hamburger"&gt;&lt;/span&gt;&lt;span class="sr-only"&gt;Menu&lt;/span&gt;
             &lt;/button&gt;
             &lt;a class="navbar-brand" href="#"&gt;Product/Client Logo&lt;/a&gt;
          &lt;/div&gt;
@@ -37,7 +37,7 @@
 &lt;nav class="navbar navbar-fnc-secondary" role="navigation" aria-label="Secondary Navigation"&gt;
     &lt;div class="container"&gt;
         &lt;ul class="nav nav-pills" role="tablist"&gt;
-            &lt;li class="active"&gt;<a href="#" role="tab"&gt;Menu Item 1&lt;/a&gt;</li&gt;
+            &lt;li class="active"&gt;<a href="#" role="tab"&gt;Menu Item 1&lt;/a&gt;&lt;d/li&gt;
             &lt;li&gt;&lt;a href="#" role="tab"&gt;Menu Item 2&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a href="#" role="tab"&gt;Menu Item 3&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
