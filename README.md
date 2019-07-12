@@ -5,4 +5,4 @@ In the meantime, I do tweet and retweet some accessibility stuff on my Twitter: 
 
 My DEV Community blog: https://dev.to/kaylasween
 
-I've also written some blog posts in the past regarding building a more accessible website which you can view on Software Unwound: https://softwareunwound.com/author/kayladsween/
+I've also written some blog posts in the past regarding building a more accessible website which you can view on Software Unwound: https://softwareunwound.com/author/kayladsween/ or read the markdown files under `blog-posts/a11y-web-page-series/`.
