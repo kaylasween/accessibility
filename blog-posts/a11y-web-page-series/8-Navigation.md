@@ -3,7 +3,7 @@
 
 <h2>Why do we use an unordered list?</h2>
 <p>Using an unordered list is something that we’ve been doing since about 1997-2000 when HTML4 and XHTML were becoming standard. At this point, it’s just convention. We can style anything however we want these days, but we keep using unordered lists as navigation. In the event of a CSS failure, the navigation bar will revert back to a regular unordered list. This bulleted list of blue, underlined links is a visual indicator that this list serves some kind of navigational purpose. This way, we’re including older users, older devices, assistive technology users, and those experiencing a CSS failure all in one!</p>
-<p>We wrap the list in a <nav role=”navigation”></nav> tag to trigger additional semantics and behaviors that allow AT users to better understand the purpose of this list of links. For example, screen reader users going through the navbar might hear “navigation landmark. List. One of five. Link: home.” It’s easy for your user to understand that they are in the navigation bar, how many links it contains, and if they want to go home, they can do so immediately after hearing the “link: home.” The nav element also automatically offers some screen reader users the ability to hit the D key and hear the list of navigation links while on any other part of the page. </p>
+<p>We wrap the list in a <code>&lt;nav role=”navigation”&gt;&lt;/nav&gt;</code> tag to trigger additional semantics and behaviors that allow AT users to better understand the purpose of this list of links. For example, screen reader users going through the navbar might hear “navigation landmark. List. One of five. Link: home.” It’s easy for your user to understand that they are in the navigation bar, how many links it contains, and if they want to go home, they can do so immediately after hearing the “link: home.” The nav element also automatically offers some screen reader users the ability to hit the D key and hear the list of navigation links while on any other part of the page. </p>
 
 <h2>More on Navigation Conventions</h2>
 <p>Although we like to make things look cool and new, sometimes it’s just best to stick with what we’ve always been doing, especially when it comes to navigation conventions. The human brain uses schemata to understand new things. This schemata acts as a cache for understanding, if you will, constituting the prior experience which the current experience is compared to. As humans, we like what’s familiar to us, so we’ll compare things to other things we’ve seen just to make sense of it. </p>
@@ -37,7 +37,7 @@
 &lt;nav class="navbar navbar-fnc-secondary" role="navigation" aria-label="Secondary Navigation"&gt;
     &lt;div class="container"&gt;
         &lt;ul class="nav nav-pills" role="tablist"&gt;
-            &lt;li class="active"&gt;<a href="#" role="tab"&gt;Menu Item 1&lt;/a&gt;&lt;d/li&gt;
+            &lt;li class="active"&gt;&lt;a href="#" role="tab"&gt;Menu Item 1&lt;/a&gt;&lt;d/li&gt;
             &lt;li&gt;&lt;a href="#" role="tab"&gt;Menu Item 2&lt;/a&gt;&lt;/li&gt;
             &lt;li&gt;&lt;a href="#" role="tab"&gt;Menu Item 3&lt;/a&gt;&lt;/li&gt;
         &lt;/ul&gt;
