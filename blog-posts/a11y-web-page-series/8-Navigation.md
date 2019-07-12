@@ -18,7 +18,7 @@
 
 <h2>Accommodate Multiple Navigation Areas with <code>aria-label</code></h2>
 <p>When using a screen reader with more than one navigation bar (think secondary nav in Ensemble or a side navigation, as shown above), it is important to differentiate the two. A screen reader would label them both as “navigation”, as that is the default label for anything with the role=”navigation” or nav element. To solve this problem, WAI-ARIA has a global aria-labelledby relationship attribute to provide a label with heading text. For example:</p>
-<code>&lt;nav class="navbar navbar-fnc" role="navigation" aria-label="Main Navigation"&gt;
+<pre><code>&lt;nav class="navbar navbar-fnc" role="navigation" aria-label="Main Navigation"&gt;
     &lt;div class="container-fluid"&gt;
         &lt;div class="navbar-header"&gt;
             &lt;button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbarCollapseDiv"&gt;
@@ -43,4 +43,5 @@
         &lt;/ul&gt;
     &lt;/div&gt;
  &lt;/nav&gt;
-
+</code>
+</pre>
