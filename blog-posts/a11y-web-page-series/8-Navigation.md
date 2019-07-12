@@ -28,7 +28,7 @@
          &lt;/div&gt;
          &lt;div class="collapse navbar-collapse" id="navbarCollapseDiv"&gt;
             &lt;ul class="nav navbar-nav navbar-right"&gt;
-               &lt;li role="separator" class="divider-vertical"&gt;</li&gt;
+               &lt;li role="separator" class="divider-vertical"&gt;&lt;/li&gt;
                …
             &lt;/ul&gt;
         &lt;/div&gt;
