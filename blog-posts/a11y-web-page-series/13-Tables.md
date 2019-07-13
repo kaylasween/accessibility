@@ -1,4 +1,6 @@
 # Setting Up an Accessible Web Page: Making Tables Accessible (A UX Accessibility Blog Post)
+##### Originally posted on June 27, 2017 on [Software Unwound](https://softwareunwound.com/2017/06/27/setting-up-an-accessible-web-page-making-tables-accessible-a-ux-accessibility-blog-post/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
+
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.”
 
 <p>Tables that have specified rows or columns with header information about that particular row or column is considered a data table. Without a header, a table can be considered a formatting table. Personally, I don’t like to use tables to format content, but it’s not technically wrong. In this blog post, I’ll be focusing on making data tables accessible.</p>
