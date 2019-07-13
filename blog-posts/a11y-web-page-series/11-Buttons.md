@@ -1,4 +1,6 @@
 # Setting Up an Accessible Web Page: Making Buttons Accessible (A UX Accessibility Blog Post)
+##### Originally posted on June 22, 2017 on [Software Unwound](https://softwareunwound.com/2017/06/22/setting-up-an-accessible-web-page-making-buttons-accessible-a-ux-accessibility-blog-post/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
+
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.”
 
 <p>We’ve talked about what needs to be done to make buttons accessible multiple times before, but since the relationship between these elements and accessibility/inclusivity is an important conversation to have, we’ll go over them (maybe in a bit more detail) again.</p>
