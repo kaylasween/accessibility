@@ -1,4 +1,6 @@
 # Setting Up an Accessible Web Page: Keyboard Focus (A UX Accessibility Blog Post)
+##### Originally posted on April 4, 2017 on [Software Unwound](https://softwareunwound.com/2017/04/04/setting-up-an-accessible-web-page-keyboard-focus-a-ux-accessibility-blog-post/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
+
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.”
 
 <p>It’s important for your users to know where they are on your page at all times. This is especially true for your keyboard users, who often find it difficult to determine their location on a webpage. </p>
