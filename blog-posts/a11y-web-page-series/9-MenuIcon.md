@@ -1,4 +1,6 @@
 # Setting Up an Accessible Web Page: When and How to Use a Menu Hamburger (A UX Accessibility Blog Post)
+##### Originally posted on June 20, 2017 on [Software Unwound](https://softwareunwound.com/2017/06/20/setting-up-an-accessible-web-page-when-and-how-to-use-a-menu-hamburger-a-ux-accessibility-blog-post/). Some of these will have references to class names in Bootstrap or Ensemble, FNC's style guide, and therefore may not be applicable to your project.
+
 ##### This UX Accessibility Blog Series, “Setting Up An Accessible Web Page,” will walk you through the basic elements of an accessible web page in hopes that you can take what you’ve learned an apply it to more complex pages. This blog series is loosely based on Heydon Pickering’s book “Inclusive Design Patterns: Coding Accessibility Into Web Design.”
 
 <p>Sometimes, to save screen real estate, it is necessary to use a menu icon to denote that the navigation region can be toggled into view. This is very common on small interfaces, such as smart phone screens. Using the hamburger icon to denote a collapsible menu has become convention for showing that menu options can be shown or hidden.</p>
