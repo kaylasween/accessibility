@@ -6,3 +6,6 @@ In the meantime, I do tweet and retweet some accessibility stuff on my Twitter: 
 My DEV Community blog: https://dev.to/kaylasween
 
 I've also written some blog posts in the past regarding building a more accessible website which you can view on Software Unwound: https://softwareunwound.com/author/kayladsween/ or read the markdown files under `blog-posts/a11y-web-page-series/`.
+
+<h2>Talks</h2>
+You can see my talk from the July Jackson Area Web and App Developer Meetup in my [jawad-july-19-pour](https://github.com/kaylasween/jawad-july-19-pour).
