@@ -9,3 +9,7 @@ I've also written some blog posts in the past regarding building a more accessib
 
 <h2>Talks</h2>
 You can see my talk from the July Jackson Area Web and App Developer Meetup in my <a href="https://github.com/kaylasween/jawad-july-19-pour">jawad-july-19-pour</a>.
+
+<h2>Other Resources</h2>
+<h3><a href="https://dequeuniversity.com">Deque University</a></h3>
+Deque University offers web accessibility and PDF/Document accessibility training. They also offer a International Association of Accessibility Professionals (IAAP) certification.
