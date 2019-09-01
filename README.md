@@ -13,3 +13,5 @@ You can see my talk from the July Jackson Area Web and App Developer Meetup in m
 <h2>Other Resources</h2>
 <h3><a href="https://dequeuniversity.com">Deque University</a></h3>
 Deque University offers web accessibility and PDF/Document accessibility training. They also offer a International Association of Accessibility Professionals (IAAP) certification.
+<h3><a href="https://a11ywins.tumblr.com">Accessibility Wins</a></h3>
+Accessibility Wins is a Tumblr blog curated by <a href="https://marcysutton.com">Marcy Sutton</a>. She showcases websites that are doing the accessibility thing right and comments on what exactly they're doing right.
